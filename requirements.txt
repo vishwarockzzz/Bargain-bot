@@ -112,7 +112,7 @@ socksio==1.0.0
 SQLAlchemy==2.0.35
 sseclient-py==1.8.0
 stack-data==0.6.3
-starlette==0.38.6
+starlette==0.40.0
 streamlit==1.39.0
 streamlit-lottie==0.0.5
 tenacity==8.5.0
